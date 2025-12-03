@@ -1,0 +1,20 @@
+<svg width="360" height="24" viewBox="0 0 360 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1545_55443" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="113" y="10" width="134" height="4">
+<path d="M245 10C246.105 10 247 10.8954 247 12C247 13.1046 246.105 14 245 14H115C113.895 14 113 13.1046 113 12C113 10.8954 113.895 10 115 10H245Z" fill="black"/>
+</mask>
+<g mask="url(#mask0_1545_55443)">
+<foreignObject x="-37" y="-150" width="434" height="324"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(75px);clip-path:url(#bgblur_0_1545_55443_clip_path);height:100%;width:100%"></div></foreignObject><g data-figma-bg-blur-radius="150">
+<rect x="113" width="134" height="24" fill="white" style="mix-blend-mode:multiply"/>
+</g>
+<rect x="113" width="134" height="24" fill="#FF0000" style="mix-blend-mode:saturation"/>
+<rect x="113" width="134" height="24" fill="white" style="mix-blend-mode:difference"/>
+<rect x="113" width="134" height="24" fill="white" style="mix-blend-mode:saturation"/>
+<rect x="113" width="134" height="24" fill="white" style="mix-blend-mode:overlay"/>
+<rect x="113" width="134" height="24" fill="black" style="mix-blend-mode:overlay"/>
+<rect x="113" width="134" height="24" fill="white" style="mix-blend-mode:overlay"/>
+<rect x="113" width="134" height="24" fill="black" style="mix-blend-mode:overlay"/>
+</g>
+<defs>
+<clipPath id="bgblur_0_1545_55443_clip_path" transform="translate(37 150)"><rect x="113" width="134" height="24"/>
+</clipPath></defs>
+</svg>
